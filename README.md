@@ -1,5 +1,5 @@
 # BVC_Face_Images
-A dataset of face images, collected by the Biometrics Vision and Computing (BVC) group in 2018
+A dataset of face images, collected by the Biometrics Vision and Computing (BVC) group
 
 ## About the BVC Face Images
 A dataset of Nigerian face images - BVC-UNN-face data, was collected by the Biometrics Vision and Computing (BVC) group at the University of Nigeria in 2018. We are making the BVC-UNN-face data free and publicly available with the spirit of promoting the sharing of academic knowledge. The BVC group through the University of Nigeria retains ownership and copyright of the BVC-face dataset. 
