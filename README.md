@@ -11,10 +11,14 @@ Face videos with both expression and head pose variations were collected in two 
 The facial expressions include the following eight (8) conditions: neutral, laughing, smiling, frowning, fearful, squinting, screaming, and surprised.
 The facial poses include frontal, elevated or lowered pitch, and right or left yaw. 
 
+The dataset is based on the publication:
+
+O. Iloanusi, P. J. Flynn and P. Tinsley, "Similarities in African Ethnic Faces from the Biometric Recognition Viewpoint," 2022 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), Waikoloa, HI, USA, 2022, pp. 419-428, doi: 10.1109/WACVW54805.2022.00048. https://ieeexplore.ieee.org/document/9707558 
 
 <hr>
 
 ## Request for Dataset and Distribution
+
 The BVC-face data is distributed via the University of Notre Dame.
 
 A formal request is required to use the BVC-face data. In other words, a researcher requesting for the dataset is required to fill a formal agreement and return to us via his/her institutional email.
@@ -25,7 +29,8 @@ Email(s): Ogechukwu.iloanusi@unn.edu.ng or oge@biometricsvision.com
 
 <hr>
 
-## BVC Face Images - Brief Stats
+
+
 
  
 
