@@ -32,9 +32,14 @@ The BVC-face data is distributed via the University of Notre Dame.
 
 A formal request is required to use the BVC-face data. In other words, a researcher requesting for the dataset is required to fill a formal agreement and return to us via his/her institutional email.
 
-Request to use the face database can be sent to the following emails:
+Request to use the face database can be sent to any of the following emails:
 
-Email(s): Ogechukwu.iloanusi@unn.edu.ng or oge@biometricsvision.com
+oge.n.iloanusi@nd.edu 
+
+Ogechukwu.iloanusi@unn.edu.ng 
+
+oge@biometricsvision.com
+
 
 <hr>
 
