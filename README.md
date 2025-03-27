@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="style.css">
 
 # BVC_Face_Images
 A dataset of face images, collected by the Biometrics Vision and Computing (BVC) group
